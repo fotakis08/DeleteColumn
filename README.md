@@ -1,5 +1,5 @@
 # DeleteColumn
 
-Run Time: O(n^2) - Due to nested for loop
+Run Time: O(n^2) - Due to nested loop and iterating through both inner and outer loops
 
-Space: O(n)
+Space Complexity: O(1) - Constant space; each iteration of temporary variables in loop gets reused
